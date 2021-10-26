@@ -31,7 +31,7 @@ define( 'DB_USER', 'campus2022' );
 define( 'DB_PASSWORD', '1hGlpaNC9ZiDJVis' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', ' db-mysql-campus-2022-do-user-4386511-0.b.db.ondigitalocean.com' );
+define( 'DB_HOST', 'db-mysql-campus-2022-do-user-4386511-0.b.db.ondigitalocean.com' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8' );
